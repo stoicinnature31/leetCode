@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/stoicinnature31/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [1242-matrix-block-sum](https://github.com/stoicinnature31/LeetCode/tree/master/1242-matrix-block-sum) |
+## Matrix
+|  |
+| ------- |
+| [1242-matrix-block-sum](https://github.com/stoicinnature31/LeetCode/tree/master/1242-matrix-block-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1242-matrix-block-sum](https://github.com/stoicinnature31/LeetCode/tree/master/1242-matrix-block-sum) |
 <!---LeetCode Topics End-->
