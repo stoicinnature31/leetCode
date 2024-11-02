@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/stoicinnature31/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/stoicinnature31/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/stoicinnature31/LeetCode/tree/master/0518-coin-change-ii) |
+| [1250-longest-common-subsequence](https://github.com/stoicinnature31/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -62,5 +63,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1250-longest-common-subsequence](https://github.com/stoicinnature31/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [2580-circular-sentence](https://github.com/stoicinnature31/LeetCode/tree/master/2580-circular-sentence) |
 <!---LeetCode Topics End-->
