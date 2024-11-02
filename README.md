@@ -57,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/stoicinnature31/LeetCode/tree/master/0062-unique-paths) |
+## String
+|  |
+| ------- |
+| [2580-circular-sentence](https://github.com/stoicinnature31/LeetCode/tree/master/2580-circular-sentence) |
 <!---LeetCode Topics End-->
