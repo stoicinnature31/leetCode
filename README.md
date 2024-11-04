@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/stoicinnature31/LeetCode/tree/master/0518-coin-change-ii) |
 | [1206-corporate-flight-bookings](https://github.com/stoicinnature31/LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [1242-matrix-block-sum](https://github.com/stoicinnature31/LeetCode/tree/master/1242-matrix-block-sum) |
+| [2048-build-array-from-permutation](https://github.com/stoicinnature31/LeetCode/tree/master/2048-build-array-from-permutation) |
 ## Matrix
 |  |
 | ------- |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/stoicinnature31/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [2580-circular-sentence](https://github.com/stoicinnature31/LeetCode/tree/master/2580-circular-sentence) |
 | [3451-string-compression-iii](https://github.com/stoicinnature31/LeetCode/tree/master/3451-string-compression-iii) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/stoicinnature31/LeetCode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
