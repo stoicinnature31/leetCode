@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0655-print-binary-tree](https://github.com/stoicinnature31/LeetCode/tree/master/0655-print-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/stoicinnature31/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0655-print-binary-tree](https://github.com/stoicinnature31/LeetCode/tree/master/0655-print-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/stoicinnature31/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Array
 |  |
@@ -84,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/stoicinnature31/LeetCode/tree/master/0020-valid-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0655-print-binary-tree](https://github.com/stoicinnature31/LeetCode/tree/master/0655-print-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0655-print-binary-tree](https://github.com/stoicinnature31/LeetCode/tree/master/0655-print-binary-tree) |
 <!---LeetCode Topics End-->
