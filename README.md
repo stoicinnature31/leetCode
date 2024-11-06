@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/stoicinnature31/LeetCode/tree/master/0120-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/stoicinnature31/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/stoicinnature31/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/stoicinnature31/LeetCode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/stoicinnature31/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/stoicinnature31/LeetCode/tree/master/0518-coin-change-ii) |
 | [1206-corporate-flight-bookings](https://github.com/stoicinnature31/LeetCode/tree/master/1206-corporate-flight-bookings) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/stoicinnature31/LeetCode/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/stoicinnature31/LeetCode/tree/master/0455-assign-cookies) |
 ## Stack
 |  |
 | ------- |
@@ -94,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0655-print-binary-tree](https://github.com/stoicinnature31/LeetCode/tree/master/0655-print-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/stoicinnature31/LeetCode/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/stoicinnature31/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
