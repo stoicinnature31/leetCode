@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/stoicinnature31/LeetCode/tree/master/0518-coin-change-ii) |
 | [1206-corporate-flight-bookings](https://github.com/stoicinnature31/LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [1242-matrix-block-sum](https://github.com/stoicinnature31/LeetCode/tree/master/1242-matrix-block-sum) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/stoicinnature31/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2048-build-array-from-permutation](https://github.com/stoicinnature31/LeetCode/tree/master/2048-build-array-from-permutation) |
 ## Matrix
 |  |
@@ -104,4 +105,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/stoicinnature31/LeetCode/tree/master/0455-assign-cookies) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/stoicinnature31/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+## Hash Table
+|  |
+| ------- |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/stoicinnature31/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+## Counting
+|  |
+| ------- |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/stoicinnature31/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 <!---LeetCode Topics End-->
