@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1206-corporate-flight-bookings](https://github.com/stoicinnature31/LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [1242-matrix-block-sum](https://github.com/stoicinnature31/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/stoicinnature31/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1940-maximum-xor-for-each-query](https://github.com/stoicinnature31/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2048-build-array-from-permutation](https://github.com/stoicinnature31/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/stoicinnature31/LeetCode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 ## Matrix
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1206-corporate-flight-bookings](https://github.com/stoicinnature31/LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [1242-matrix-block-sum](https://github.com/stoicinnature31/LeetCode/tree/master/1242-matrix-block-sum) |
+| [1940-maximum-xor-for-each-query](https://github.com/stoicinnature31/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/stoicinnature31/LeetCode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 ## Dynamic Programming
 |  |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/stoicinnature31/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1940-maximum-xor-for-each-query](https://github.com/stoicinnature31/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 <!---LeetCode Topics End-->
