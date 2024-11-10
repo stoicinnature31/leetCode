@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/stoicinnature31/LeetCode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/stoicinnature31/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/stoicinnature31/LeetCode/tree/master/0518-coin-change-ii) |
+| [0940-fruit-into-baskets](https://github.com/stoicinnature31/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/stoicinnature31/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1206-corporate-flight-bookings](https://github.com/stoicinnature31/LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [1242-matrix-block-sum](https://github.com/stoicinnature31/LeetCode/tree/master/1242-matrix-block-sum) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/stoicinnature31/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/stoicinnature31/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/stoicinnature31/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Counting
@@ -131,5 +133,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/stoicinnature31/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/stoicinnature31/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
