@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/stoicinnature31/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0783-search-in-a-binary-search-tree](https://github.com/stoicinnature31/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1046-max-consecutive-ones-iii](https://github.com/stoicinnature31/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/stoicinnature31/LeetCode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/stoicinnature31/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/stoicinnature31/LeetCode/tree/master/0518-coin-change-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/stoicinnature31/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1206-corporate-flight-bookings](https://github.com/stoicinnature31/LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [1242-matrix-block-sum](https://github.com/stoicinnature31/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/stoicinnature31/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/stoicinnature31/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1206-corporate-flight-bookings](https://github.com/stoicinnature31/LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [1242-matrix-block-sum](https://github.com/stoicinnature31/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/stoicinnature31/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
@@ -125,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/stoicinnature31/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/stoicinnature31/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/stoicinnature31/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
