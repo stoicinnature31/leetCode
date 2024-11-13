@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/stoicinnature31/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1940-maximum-xor-for-each-query](https://github.com/stoicinnature31/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2048-build-array-from-permutation](https://github.com/stoicinnature31/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/stoicinnature31/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/stoicinnature31/LeetCode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/stoicinnature31/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Matrix
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1206-corporate-flight-bookings](https://github.com/stoicinnature31/LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [1242-matrix-block-sum](https://github.com/stoicinnature31/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/stoicinnature31/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/stoicinnature31/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/stoicinnature31/LeetCode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 ## Dynamic Programming
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/stoicinnature31/LeetCode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/stoicinnature31/LeetCode/tree/master/0344-reverse-string) |
 | [1250-longest-common-subsequence](https://github.com/stoicinnature31/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/stoicinnature31/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2580-circular-sentence](https://github.com/stoicinnature31/LeetCode/tree/master/2580-circular-sentence) |
 | [3451-string-compression-iii](https://github.com/stoicinnature31/LeetCode/tree/master/3451-string-compression-iii) |
 ## Simulation
