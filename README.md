@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/stoicinnature31/LeetCode/tree/master/0062-unique-paths) |
+| [1674-minimum-operations-to-make-array-equal](https://github.com/stoicinnature31/LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/stoicinnature31/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Combinatorics
 |  |
