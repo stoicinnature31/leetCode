@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0655-print-binary-tree](https://github.com/stoicinnature31/LeetCode/tree/master/0655-print-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/stoicinnature31/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/stoicinnature31/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0655-print-binary-tree](https://github.com/stoicinnature31/LeetCode/tree/master/0655-print-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/stoicinnature31/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/stoicinnature31/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Array
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0655-print-binary-tree](https://github.com/stoicinnature31/LeetCode/tree/master/0655-print-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/stoicinnature31/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Greedy
 |  |
 | ------- |
