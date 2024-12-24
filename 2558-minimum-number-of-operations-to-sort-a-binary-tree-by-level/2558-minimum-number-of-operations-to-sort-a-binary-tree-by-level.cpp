@@ -6,62 +6,63 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
  * };
  */
 class Solution {
-
 public:
-     int findMinSwaps(vector<int>& values){
-        int min_swaps=0;
-
-        //Store K->Value...V->Actual_Idx Ordered Map
-        map<int,int> sorted_map;
-        int n=values.size();
-        for(int j=0;j<n;++j)
-            sorted_map[values[j]]=j;
-
-        //Sort the array to know the expected index
-        sort(values.begin(),values.end());
-
-        vector<bool> visited(n,false);//This marks already processed indices
-        int iteration=0;    //Row number of Map
-        for(auto& [val,idx]: sorted_map){
-            if(visited[idx]){//Don't process if already done
-                iteration++;
-                continue;
-            }    
-
-            visited[idx]=true;
-            int len=1;//Find length of cycle
-            while(idx!=iteration){
-                idx = sorted_map[values[idx]];
-                visited[idx]=true;
-                len++;
-            }
-            min_swaps += len-1;//Add no of swaps for the current loop
-            iteration++;
-        }
-        return min_swaps;
-    }
     int minimumOperations(TreeNode* root) {
-         queue<TreeNode*> q;
+        int operations = 0;
+        queue<TreeNode*> q;
         q.push(root);
+        q.push(NULL); // Use NULL as a level delimiter
+        vector<int> levelArr;
 
-        int min_swaps=0;
-        while(!q.empty()){
-            int size=q.size();
-            vector<int> values;
-            for(int i=0;i<size;++i){
-                TreeNode* curr = q.front();
-                q.pop();
+        while (!q.empty()) {
+            auto front = q.front();
+            q.pop();
 
-                values.push_back(curr->val);
-                if(curr->left)  q.push(curr->left);
-                if(curr->right) q.push(curr->right);
+            if (front == NULL) {
+                // End of current level
+                if (!levelArr.empty()) {
+                    int size = levelArr.size();
+                    vector<int> sortedArr = levelArr;
+                    sort(sortedArr.begin(), sortedArr.end());
+
+                    // Map value -> original index
+                    unordered_map<int, int> indexMap;
+                    for (int i = 0; i < size; i++) {
+                        indexMap[levelArr[i]] = i;
+                    }
+
+                    vector<bool> visited(size, false);
+                    for (int i = 0; i < size; i++) {
+                        if (visited[i] || indexMap[sortedArr[i]] == i) continue;
+
+                        int cycles = 0, idx = i;
+                        while (!visited[idx]) {
+                            visited[idx] = true;
+                            idx = indexMap[sortedArr[idx]];
+                            cycles++;
+                        }
+                        operations += (cycles - 1);
+                    }
+
+                    levelArr.clear();
+                }
+
+                if (!q.empty()) {
+                    q.push(NULL); // Add delimiter for the next level
+                }
+            } else {
+                // Process current node
+                levelArr.push_back(front->val);
+                if (front->left) q.push(front->left);
+                if (front->right) q.push(front->right);
             }
-            min_swaps += findMinSwaps(values);
         }
-        return min_swaps;
+
+        return operations;
     }
 };
