@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/stoicinnature31/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0655-print-binary-tree](https://github.com/stoicinnature31/LeetCode/tree/master/0655-print-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/stoicinnature31/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/stoicinnature31/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/stoicinnature31/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0655-print-binary-tree](https://github.com/stoicinnature31/LeetCode/tree/master/0655-print-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/stoicinnature31/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/stoicinnature31/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -118,10 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/stoicinnature31/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0655-print-binary-tree](https://github.com/stoicinnature31/LeetCode/tree/master/0655-print-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/stoicinnature31/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0655-print-binary-tree](https://github.com/stoicinnature31/LeetCode/tree/master/0655-print-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/stoicinnature31/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Greedy
