@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/stoicinnature31/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2048-build-array-from-permutation](https://github.com/stoicinnature31/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/stoicinnature31/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2358-number-of-ways-to-split-array](https://github.com/stoicinnature31/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/stoicinnature31/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/stoicinnature31/LeetCode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/stoicinnature31/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1242-matrix-block-sum](https://github.com/stoicinnature31/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/stoicinnature31/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/stoicinnature31/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
+| [2358-number-of-ways-to-split-array](https://github.com/stoicinnature31/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/stoicinnature31/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/stoicinnature31/LeetCode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 ## Dynamic Programming
