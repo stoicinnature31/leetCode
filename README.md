@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/stoicinnature31/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2048-build-array-from-permutation](https://github.com/stoicinnature31/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/stoicinnature31/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/stoicinnature31/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/stoicinnature31/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/stoicinnature31/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/stoicinnature31/LeetCode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/stoicinnature31/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/stoicinnature31/LeetCode/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/stoicinnature31/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/stoicinnature31/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/stoicinnature31/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2580-circular-sentence](https://github.com/stoicinnature31/LeetCode/tree/master/2580-circular-sentence) |
 | [3451-string-compression-iii](https://github.com/stoicinnature31/LeetCode/tree/master/3451-string-compression-iii) |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/stoicinnature31/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/stoicinnature31/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
