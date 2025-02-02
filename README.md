@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1242-matrix-block-sum](https://github.com/stoicinnature31/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/stoicinnature31/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1755-defuse-the-bomb](https://github.com/stoicinnature31/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/stoicinnature31/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/stoicinnature31/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/stoicinnature31/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2048-build-array-from-permutation](https://github.com/stoicinnature31/LeetCode/tree/master/2048-build-array-from-permutation) |
